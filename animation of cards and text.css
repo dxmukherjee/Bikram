@@ -1,0 +1,159 @@
+
+.cards img{
+	width:100%;
+	height:50vh;
+	border-radius: 200px;
+
+}
+
+.a{
+	margin-top:  50px;
+	padding-top:  50px;
+
+}
+
+#a{
+background-image:linear-gradient(180deg,   #ffb3ff,   #b300b3);
+width: 100%;
+height: 400px;
+}
+
+
+
+
+
+
+
+.x{
+	
+	background-color:  #000099;
+	position: absolute;
+	float: left;
+	
+}
+.y{
+	background-color:  #000099;
+	position: relative;
+	float: right;
+    padding: 25px;
+}
+
+form{
+	padding: 24px;
+}
+
+
+
+
+
+
+.y p{
+	color: cyan;
+	text-align: center;
+}
+
+#a{
+	margin-top: 50px;
+}
+
+.row h1{
+	margin:auto;
+	margin-top: 150px;
+}
+
+form button {
+	margin: 2px;
+}
+.card{
+	margin:2px;
+	box-shadow: 5px 10px #babbb3;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+
+}
+
+#m{
+	border-radius: 150px;
+}
+
+#n{
+	width: auto;
+}
+
+.ff{
+	animation-name: abc;
+	animation-iteration-count: infinite;
+	animation-duration: 30s;
+
+}
+
+@keyframes abc
+{
+	0%{
+opacity: 0;
+	}
+
+	100%{
+opacity: 1;
+	}
+}
+
+
+.card-text,.card-title{
+	animation-name: abcd;
+	animation-iteration-count: infinite;
+	animation-duration: 30s;
+
+}
+
+@keyframes abcd
+{
+	0%{
+opacity: 0;
+	}
+
+	100%{
+opacity: 1;
+
+	}
+}
+
+#x{
+	display: inline-flex;
+}
+
+
+.card-title {
+	font-family: 'Langar', cursive;
+
+}
+.card-text{
+	font-family: lora;
+
+}
+
+#cc{
+   font-family: 'Langar', cursive;
+}
+
+.cards{
+animation-name: abcde;
+	animation-iteration-count: infinite;
+	animation-duration: 30s;
+
+}
+
+@keyframes abcde
+{
+	0%{
+opacity: 0;
+	}
+
+	25%{
+opacity: 1;
+
+	}
+}
